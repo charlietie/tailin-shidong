@@ -1,0 +1,6 @@
+model_checkpoint_path: "HAR_Conv1LSTM2-5199"
+all_model_checkpoint_paths: "HAR_Conv1LSTM2-5159"
+all_model_checkpoint_paths: "HAR_Conv1LSTM2-5169"
+all_model_checkpoint_paths: "HAR_Conv1LSTM2-5179"
+all_model_checkpoint_paths: "HAR_Conv1LSTM2-5189"
+all_model_checkpoint_paths: "HAR_Conv1LSTM2-5199"
